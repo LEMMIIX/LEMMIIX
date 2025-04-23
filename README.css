@@ -2,11 +2,11 @@ body {
 	margin-left: 2em;
 	font-family: "Courier New", Times, serif;
 	font-size: 1em;
-	color: black;
+	color: blue;
 	background-color: white;
 	padding: 0;
 }
 
-img[alt$="style"] {
+img[alt$="<"] {
 	height: 30px;
 }
