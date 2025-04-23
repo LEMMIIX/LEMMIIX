@@ -1,0 +1,12 @@
+body {
+	margin-left: 2em;
+	font-family: "Courier New", Times, serif;
+	font-size: 1em;
+	color: black;
+	background-color: white;
+	padding: 0;
+}
+
+img[alt$="style"] {
+	height: 30px;
+}
