@@ -1,3 +1,5 @@
+<link href="README.css" rel="stylesheet"></link>
+
 Computer science student interested in C, C++, and raw performant code.
 <br>
 Languages I've worked with:
